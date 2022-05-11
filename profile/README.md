@@ -13,4 +13,4 @@
 
 🙋‍♂️ EchoSearch is a search-as-a-service product in development, so stay tuned.
 
-* [Echo Search official website](https://www.echosearch.co)
+* [EchoSearch official website](https://www.echosearch.co)
